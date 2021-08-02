@@ -1,0 +1,15 @@
+.alo
+{
+    margin-left:2cm ;
+    margin-right: 2cm;
+    font-family: 'Courier New', Courier, monospace ;
+}
+.image
+{
+    margin-left: 4cm;
+    margin-right: 2cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    width: 6cm;
+    
+}
